@@ -1,4 +1,4 @@
-#Secure telnet başlatmak için Linux/Unix Komut Satirina Giriniz
+#Linux/Unix Komut Satirina Giriniz
 openssl s_client -connect smtp.gmail.com:465 -crlf -ign_eof
 
 # Google sunucularina baglandiktan sonra sırasıyla aşağıdaki etiketli mesajları girip ENTER tuşuna basınız:
